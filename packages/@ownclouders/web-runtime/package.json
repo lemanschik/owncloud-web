@@ -7,7 +7,7 @@
   "dependencies": {
     "@casl/ability": "^6.3.3",
     "@casl/vue": "^2.2.1",
-    "design-system": "workspace:@ownclouders/design-system@*",
+    "design-system": "@ownclouders/design-system",
     "@fortawesome/fontawesome-free": "6.4.0",
     "@popperjs/core": "^2.11.5",
     "@sentry/vue": "7.45.0",
@@ -46,9 +46,9 @@
     "vue-select": "4.0.0-beta.6",
     "vue3-gettext": "^2.3.3",
     "vuex": "4.1.0",
-    "web-client": "workspace:@ownclouders/web-client@*",
-    "web-pkg": "workspace:@ownclouders/web-pkg@*",
-    "web-runtime": "workspace:*",
+    "web-client": "@ownclouders/web-client",
+    "web-pkg": "@ownclouders/web-pkg",
+    "web-runtime": "*",
     "webdav": "^4.10.0",
     "webfontloader": "^1.6.28",
     "xml-js": "^1.6.11"
