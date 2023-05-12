@@ -1,6 +1,17 @@
 {
   "extends": "@ownclouders/tsconfig",
+  "include": ["*.ts","*.json"],
   "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false,
+    "composite": true,
+    "allowImportingTsExtensions": false,
+    "allowSyntheticDefaultImports": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleDetection": "force",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
     "baseUrl": "./",
     "paths": {
       "*": [
