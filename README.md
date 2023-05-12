@@ -34,9 +34,7 @@ Here are some examples of what you can do with ownCloud Web:
 - 🎭 **Themes**: Customize to your branding needs or personal taste in no time.
 - 👉 and many more...
 
-As the successor to the classic ownCloud frontend, it is compatible with both the [ownCloud Server](https://github.com/owncloud/core) and [ownCloud Infinite Scale](https://github.com/owncloud/ocis). When used with the ownCloud Server, ownCloud Web is made available to users via an additional item "New Design" in the application switcher. 
-
-While the `web` frontend provides a performant, elegant, accessible and themeable base, it also aims to be extendable with custom extensions provided by external developers.
+As the successor to OwnCloud, Awesome OS and it's File Explorer ownCloud Interface. Stays compatible with both the [ownCloud Server](https://github.com/owncloud/core) and [ownCloud Infinite Scale](https://github.com/owncloud/ocis). When used with the ownCloud Server, ownCloud Infinite Scale you simply need to configure the backend url and type you want to connect to.
 
 ## Live Demos
 - **Server** - Try the most recent release of `web` with an ownCloud Server backend: 
